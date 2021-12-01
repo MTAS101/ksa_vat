@@ -1,0 +1,3 @@
+bench get-app ksa_vat https://github.com/mtas101/ksa_vat.git
+bench --site site1.local install-app ksa_vat
+bench --site site1.local migrate
